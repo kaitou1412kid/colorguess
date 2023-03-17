@@ -1,0 +1,48 @@
+.squares {
+    /* height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 5px; */
+    width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	transition: background .5s;
+	-webkit-transition: background .5s;
+	-moz-transition: background .5s;
+	-o-transition: background .5s;
+}
+
+body {
+	background-color: #232323;
+	margin: 0;
+}
+#container {
+	max-width: 900px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-left: 20%;
+}
+
+#heading {
+	color: white;
+	background-color: #2C8E99;
+	font-size: 2em;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 10px 0;
+}
+
+#footer {
+	color: white;
+	background-color: #2c8e99;
+	font-size: 1em;
+	text-align: center;
+	text-transform: uppercase;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+
+}
